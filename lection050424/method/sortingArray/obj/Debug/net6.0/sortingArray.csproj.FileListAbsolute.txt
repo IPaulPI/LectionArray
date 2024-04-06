@@ -1,0 +1,15 @@
+C:\Users\Павел\lection050424\method\sortingArray\obj\Debug\net6.0\sortingArray.csproj.AssemblyReference.cache
+C:\Users\Павел\lection050424\method\sortingArray\obj\Debug\net6.0\sortingArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\lection050424\method\sortingArray\obj\Debug\net6.0\sortingArray.AssemblyInfoInputs.cache
+C:\Users\Павел\lection050424\method\sortingArray\obj\Debug\net6.0\sortingArray.AssemblyInfo.cs
+C:\Users\Павел\lection050424\method\sortingArray\obj\Debug\net6.0\sortingArray.csproj.CoreCompileInputs.cache
+C:\Users\Павел\lection050424\method\sortingArray\bin\Debug\net6.0\sortingArray.exe
+C:\Users\Павел\lection050424\method\sortingArray\bin\Debug\net6.0\sortingArray.deps.json
+C:\Users\Павел\lection050424\method\sortingArray\bin\Debug\net6.0\sortingArray.runtimeconfig.json
+C:\Users\Павел\lection050424\method\sortingArray\bin\Debug\net6.0\sortingArray.dll
+C:\Users\Павел\lection050424\method\sortingArray\bin\Debug\net6.0\sortingArray.pdb
+C:\Users\Павел\lection050424\method\sortingArray\obj\Debug\net6.0\sortingArray.dll
+C:\Users\Павел\lection050424\method\sortingArray\obj\Debug\net6.0\refint\sortingArray.dll
+C:\Users\Павел\lection050424\method\sortingArray\obj\Debug\net6.0\sortingArray.pdb
+C:\Users\Павел\lection050424\method\sortingArray\obj\Debug\net6.0\sortingArray.genruntimeconfig.cache
+C:\Users\Павел\lection050424\method\sortingArray\obj\Debug\net6.0\ref\sortingArray.dll
